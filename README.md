@@ -1,2 +1,2 @@
 # salesforce_predictions
-Project to practicing and implement time series stock forecasting in python
+Project for practicing and implementing time series stock forecasting in python
